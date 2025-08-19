@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🎮 Alkarısı Korku Evi  
 
-<!--
-**alkarisikorkuevi/Alkarisikorkuevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 **Karanlık ve sisli bir korku deneyimine hazır mısın?** 🔥  
 
-Here are some ideas to get you started:
+Bu proje, oyunculara hem **gerilim** hem de **macera** sunmak için tasarlandı.  
+Adım adım seviyeleri geçerken **karanlık evin gizemlerini** çözeceksin.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🕹️ Oyun Hakkında  
+
+- 🌫️ **Sisli atmosfer**: Görüş mesafen kısıtlı olacak.  
+- 🏚️ **Korku evi**: Her odada farklı bir gizem seni bekliyor.  
+- 🎭 **Gerçekçi deneyim**: Ses efektleri ve ortam tasarımları ile ürkütücü bir yolculuk.  
+- 🔑 **Bulmacalar**: Kapıları açmak için ipuçlarını birleştir.  
+
+---
+
+## 📈 Seviyeler  
+
+- 🟢 **Seviye 2-5**: Basit bulmacalar, kolay düşmanlar.  
+- 🟡 **Seviye 6-9**: Daha yoğun sis, zor ipuçları.  
+- 🔴 **Seviye 10-12**: Karanlık, güçlü düşmanlar, hayatta kalma mücadelesi.  
+
+---
+
+## 🚀 Başlangıç  
+
+1. Oyunu indir ve çalıştır.  
+2. Kendi stratejini kur.  
+3. Korku evinden çıkabilecek misin?  
+
+---
+
+### 👻 Hazır mısın?  
+> **Alkarısı seni bekliyor...**  
